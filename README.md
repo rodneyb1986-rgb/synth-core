@@ -1,2 +1,2 @@
-# synth
-ai
+synth-core
+
